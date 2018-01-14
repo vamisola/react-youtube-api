@@ -1,5 +1,7 @@
 # React Youtube API Search
 
+### from Stephen Grider's Modern React with Redux Course in Udemy 
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
